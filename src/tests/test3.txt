@@ -1,0 +1,4 @@
+% Syntaxfel: felaktig färgsyntax
+COLOR 05AB34.
+FORW 1.
+

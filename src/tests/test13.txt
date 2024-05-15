@@ -1,0 +1,8 @@
+REP 4 "
+    FORW 80.
+    LEFT 45.
+    REP 5 "FORW 40. RIGHT 30."
+    BACK 30.
+    REP 3 "RIGHT 60. FORW 20."
+    DOWN REP 2 "UP. FORW 70. LEFT 30."
+"
