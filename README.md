@@ -77,4 +77,4 @@ Program &rarr; Instruction Program &rarr; Pen Program &rarr; DOWN PERIOD Program
 
 ## Collaborators
 * Erik Smit: [erikgsmit](https://github.com/erikgsmit)
-* Hugo Larsson Wilhelmsson]: [hugoahus](https://github.com/hugoahus)
+* Hugo Larsson Wilhelmsson: [hugoahus](https://github.com/hugoahus)
