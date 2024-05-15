@@ -34,7 +34,7 @@
  
 
 
-## Parse tree for sample #12
+## Parsing for Sample #12
 
 ### Proof
 The program begins on ```<Program>``` 
